@@ -1,0 +1,7 @@
+Name,Lat,Lon,Region,Trend_code,Count_Date,Count_Season,Count_Type,Count,Data_Source,Pop_Estimate,Comments
+Alcock Island,-64.24,-61.127,1,0,1/24/1987,1986,N,42,Poncet archival data,42,
+Anagram Islands,-65.209,-64.331,1,0,1/5/1971,1970,N,7,Unknown source cited in Poncet data,7,
+Andresen Island site 1,-66.879,-66.649,1,0,1/22/2016,2015,N,3,H. Lynch unpublished data,3,
+Andresen Island site 2,-66.875,-66.711,1,0,1/16/2013,2012,N,24,Lynch et al. 2013,24,
+Armstrong Reef,-65.8919,-66.2117,1,0,1/8/2013,2012,N,136,H. Lynch unpublished data,136,Casanovas et al. 2015 (which reports on the same visit in the ASI database) lists 114 which is the result of a summing error - 136 is the correct count for that date
+Armstrong Reef,-65.8919,-66.2117,1,1,NA,1989,N,633,Harris et al. 2011,633,The Harris et al. 2011 number of 633 comes from Poncet data for various locations in the island group: Olive Island; Lulu Island; Riquet Island; and Markham Island. The 60 pairs on Markham Island were surveyed not in the 1989 season with the others; but during the next season (1990).
