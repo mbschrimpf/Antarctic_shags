@@ -39,9 +39,11 @@ When entering a new data source, add the full citation to the bottom of this REA
 ### Citations
 
 **BAS unpublished data**
+
 British Antarctic Survey. Contact: Michael Dunn mdunn@bas.ac.uk
 
 **Bruce and Furse 1973; cited in Harris et al. 2011**
+
 BRUCE, G. & FURSE, C. 1973. Elephant Island Joint Services Expedition 1970 – 71. Ornithological Report. BAS Archives Doc. 1999/33/45.
 
 **Casanovas et al. 2015**
