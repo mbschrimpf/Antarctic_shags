@@ -1,5 +1,5 @@
 # Antarctic_shags
-This repository is for the list of surveys from Antarctic shag breeding locations originally compiled in Schrimpf, Naveen, and Lynch. Population status of the Antarctic shag (Phalacrocorax [atriceps] bransfieldensis). In review at *Antarctic Science*.
+This repository is for the list of surveys from Antarctic shag breeding locations originally compiled in Schrimpf, Naveen, and Lynch. Population status of the Antarctic shag (*Phalacrocorax* [*atriceps*] *bransfieldensis*). In review at *Antarctic Science*.
 
 **Note**: While the paper is in review, the database file is a placeholder, with only the first few lines from the database.
 
