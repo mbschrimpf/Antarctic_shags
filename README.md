@@ -17,8 +17,8 @@ When entering a new data source, please add the full citation to the bottom of t
 ### Column Headers
 
 1. **Name**: location name
-2. **Lat**: latitude (decimal degrees; WGS1983)
-3. **Lon**: longitude (decimal degrees; WGS1983)
+2. **Lat**: latitude (decimal degrees; WGS1984)
+3. **Lon**: longitude (decimal degrees; WGS1984)
 4. **Region**
 	+ 1=Antarctic Peninsula/South Shetland Islands
 	+ 0=South Orkney Islands
