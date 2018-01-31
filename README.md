@@ -33,6 +33,13 @@ When entering a new data source, please add the full citation to the bottom of t
 	+ A=adults present
 	+ C=chicks present
 9. **Count**: reported count
+10. **Accuracy**:
+	+ 1: <5%
+	+ 2: 5-10%
+	+ 3: 10-25%
+	+ 4: 25-50%
+	+ 5: order of magnitude
+	+ UNK: not reported (conservatively assumed 4)
 10. **Data_Source**: citation (see full list below)
 11. **Pop_Estimate**: population estimate derived from the count. Chick counts were divided by 1.7; adult counts were divided by 1.5. Any calculations rounded to the nearest integer.
 12. **Comments**: Relevant comments
