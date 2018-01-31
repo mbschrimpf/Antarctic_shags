@@ -35,7 +35,7 @@ When entering a new data source, please add the full citation to the bottom of t
 9. **Count**: reported count
 10. **Accuracy**:
 	+ 1: <5%
-	+ 2: 
+	+ 2: 5-10%
 	+ 3: 10-25%
 	+ 4: 25-50%
 	+ 5: order of magnitude
