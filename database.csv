@@ -1,5 +1,5 @@
 Name,Lat,Lon,Region,Trend_code,Count_Date,Count_Season,Count_Type,Count,Accuracy,Data_Source,Pop_Estimate,Comments
-Alcock Island,-64.24,-61.127,1,0,1/24/1987,1986,N,42,3,Poncet data,42,
+Alcock Island,-64.24,-61.127,1,0,1/24/1987,1985,N,42,3,Poncet data,42,
 Anagram Islands,-65.209,-64.331,1,0,1/5/1971,1970,N,7,1,Unknown source cited in Poncet data,7,
 Andresen Island site 1,-66.879,-66.649,1,0,1/22/2016,2015,N,3,1,ASI database,3,
 Andresen Island site 2,-66.875,-66.711,1,0,1/16/2013,2012,N,24,1,Lynch et al 2013,24,
@@ -114,7 +114,7 @@ Demas Rocks,-63.35,-58.0333,1,0,2/1/1990,1989,N,10,3,Poncet data,10,
 Detaille Island,-66.8708,-66.7867,1,0,1/22/2014,2013,N,2,1,ASI database,2,
 Dorian Beacon,-64.811111,-63.511389,1,0,11/15/2015,2015,N,0,1,ASI database,0,Previously had 1 nest in 2007/08 (Lynch et al 2013)
 Driencourt Point,-64.2072,-62.5375,1,0,1/29/1987,1986,N,30,3,Poncet data,30,
-Duperré Bay,-64.461389,-62.657222,1,0,1/28/1987,1986,N,22,1,Poncet data,22,
+DuperrÃ© Bay,-64.461389,-62.657222,1,0,1/28/1987,1986,N,22,1,Poncet data,22,
 Duroch Islands,-63.3033,-57.8903,1,0,2/2/1990,1989,N,30,4,Poncet data,30,Exact location is uncertain
 Duthiers Point,-64.8049,-62.8179,1,0,12/30/1989,1989,N,80,3,Poncet data,80,
 Duthoit Point,-62.307,-58.835,1,0,NA,2008,N,41,UNK,Casaux and Barrera-Oro 2016,41,
@@ -159,7 +159,7 @@ Green Island,-65.3236,-64.1487,1,0,1/6/2013,2012,N,89,1,Casanovas et al 2015,89,
 Green Island,-65.3236,-64.1487,1,1,2/15/1987,1986,N,50,4,Poncet data,50,
 Grey Island,-60.7487,-45.0149,0,0,NA,1988,N,144,UNK,Harris et al. 2011,144,
 Grinder Rock,-63.9571,-61.4326,1,0,1/28/1986,1985,N,110,3,Poncet data,110,"In two subcolonies, numbering 50+60"
-Guébriant Islands,-67.8017,-68.4053,1,0,NA,1978,N,0,1,Poncet data,0,"Poncet data notes that they ""may nest here"" but presence was unconfirmed"
+GuÃ©briant Islands,-67.8017,-68.4053,1,0,NA,1978,N,0,1,Poncet data,0,"Poncet data notes that they ""may nest here"" but presence was unconfirmed"
 Half Moon Island,-62.5901,-59.9203,1,0,1/13/2016,2015,N,13,1,ASI database,13,
 Hannah Point,-62.6545,-60.6134,1,0,1/24/2015,2014,N,3,1,ASI database,3,
 Hannah Point,-62.6545,-60.6134,1,1,12/9/1994,1994,N,10,1,ASI Database,10,
